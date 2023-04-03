@@ -10,7 +10,10 @@ Big-O gösterimini yazınız.
 
 3) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-# Proje 1
+# Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+2) Big-O gösterimini yazınız.
 
 # Proje 3
 
