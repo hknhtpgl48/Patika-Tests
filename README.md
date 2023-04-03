@@ -16,4 +16,4 @@ Big-O gösterimini yazınız.
 2) Big-O gösterimini yazınız.
 
 # Proje 3
-
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
